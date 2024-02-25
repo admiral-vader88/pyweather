@@ -1,2 +1,2 @@
-# pyweather
- Real time Weather Monitoring using using Python
+#  Real time Weather Monitoring using using Python
+This project introduces a simple yet effective solution for accessing live weather updates using Python. Leveraging web scraping and APIs, the system collects real-time weather data from reliable sources, ensuring accurate and up-to-date information. The lightweight implementation employs Python libraries for data processing and visualization, offering users a quick and convenient way to stay informed about current weather conditions. The project emphasizes simplicity and accessibility, making it an ideal tool for users seeking real-time weather insights with minimal effort.
